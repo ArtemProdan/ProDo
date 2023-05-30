@@ -1161,9 +1161,10 @@ font-weight: bold;
     height: 60px;
     margin-top: -30px;
 }
-.slider .slick-arrow.slick-prev{
+.slider .slick-arrow.slick-prev {
     left: 0;
-    background: url('next.svg') 0 0 / 100% no-repeat; transform: rotate(-180deg); margin-top: -40px;
+    background: url('next.svg') 0 0 / 100% no-repeat; 
+    transform: rotate(-180deg); margin-top: -40px;
 }
 .slider .slick-arrow.slick-next{
     background: url('next.svg') 0 0 / 100% no-repeat;
